@@ -14,6 +14,7 @@ The raw dataset is cleaned and processed using the preprocessing script DataPrep
 📉 Gap Analysis
 📅 Created Date column
 🔃 Sorted data chronologically
+
 📁 Output:
 A cleaned dataset is generated:
 ➡️ You can save it with any name
@@ -31,6 +32,7 @@ Registration vs certification
 Zone-wise heatmap
 📂 Load dataset dynamically
 🧾 Help & Terms section
+
 ▶️ How to Run the Project
 🔹 Step 1: Run Data Preprocessing (Colab)
 Open the preprocessing file in Google Colab
@@ -48,6 +50,7 @@ clean_death_data.csv
 Click "Load Data" button
 Select clean_death_data.csv
 ⚙️ How the System Works
+
 🔹 Raw dataset is preprocessed in Google Colab
 🔹 Cleaned dataset is saved as CSV
 🔹 GUI loads the cleaned dataset
@@ -75,9 +78,11 @@ project/
 ✅ Interactive GUI dashboard
 ✅ Zone-based heatmap visualization
 ✅ Real-world dataset handling
+
 👩‍💻 Author
 Deepanshi Shukla
 Harshita Mathur
+
 🚀 Future Improvements
 🔮 Add ML prediction model
 ⚡ Automate dataset loading

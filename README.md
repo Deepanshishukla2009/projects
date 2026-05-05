@@ -34,6 +34,7 @@ Zone-wise heatmap
 🧾 Help & Terms section
 
 ▶️ How to Run the Project
+
 🔹 Step 1: Run Data Preprocessing (Colab)
 Open the preprocessing file in Google Colab
 Upload dataset or connect Google Drive
@@ -50,6 +51,7 @@ clean_death_data.csv
 🔹 Step 3: Load Dataset in GUI
 Click "Load Data" button
 Select clean_death_data.csv
+
 ⚙️ How the System Works
 
 🔹 Raw dataset is preprocessed in Google Colab

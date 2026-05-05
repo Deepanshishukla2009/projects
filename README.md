@@ -1,4 +1,5 @@
 📊 Capstone Python Project
+
 🧹 Stage 1: Data Preprocessing (Google Colab)
 The raw dataset is cleaned and processed using the preprocessing script DataPreprocessing.py.
 

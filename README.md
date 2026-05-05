@@ -42,6 +42,7 @@ Run all cells
 clean_death_data.csv
 
 🔹 Step 2: Run GUI Application
+
 📦 Install required libraries: pip install pandas matplotlib pillow
 
 ▶️ Run the GUI file: python GUI code.py
@@ -81,9 +82,12 @@ project/
 
 👩‍💻 Author
 Deepanshi Shukla
+
 Harshita Mathur
 
 🚀 Future Improvements
 🔮 Add ML prediction model
+
 ⚡ Automate dataset loading
+
 🌐 Deploy as web application
